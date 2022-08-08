@@ -1,6 +1,6 @@
 .odd {
    background-color: rgb(255, 77, 181);
-   font-family: Verdana, DejaVuSans, sans-serif;
+   font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #second {
@@ -12,7 +12,7 @@
    font-size: 24px;
 }
 
-#fourth{
+#fourth {
    background-color: rgb(144, 197, 57);
    font-size: 24px;
    font-weight: bold;
